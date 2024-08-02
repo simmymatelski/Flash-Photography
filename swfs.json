@@ -22,6 +22,14 @@
       "type": "Animation"
     },
     {
+      "location": "swfs/happyWheels (1).swf",
+      "title": "Happy Wheels",
+      "author": "Jim Bonacci",
+      "authorLink": "https://totaljerkface.com/",
+      "type": "Game"
+    },
+
+    {
       "location": "swfs/saturday_morning_watchmen.swf",
       "title": "Saturday Morning Watchmen",
       "author": "Harry Partridge",
@@ -70,6 +78,133 @@
       "author": "Tom Fulp",
       "authorLink": "https://www.newgrounds.com",
       "type": "Game"
+    },
+    {
+      "location": "swfs/supermario63(maybeglitchy notwork).swf",
+      "title": "Sm63",
+      "author": "Kai",
+      "authorLink": "Art.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/ssf:ONE.swf",
+      "title": "SSF1",
+      "author": "McLeodGaming",
+      "authorLink": "https://www.mcleodgaming.com/ssf2",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/armedwithwings.swf",
+      "title": "ArmedWithWings",
+      "author": "Sun-Studios",
+      "authorLink": "https://www.sunstudio.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/armed_with_wings_2.swf",
+      "title": "ArmedWithWings2",
+      "author": "Sun-Studios",
+      "authorLink": "https://www.sunstudio.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/AwW_3_v.17.swf",
+      "title": "ArmedWithWings3",
+      "author": "Sun-Studios",
+      "authorLink": "https://www.sunstudio.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/armed_with_wings_culmination.swf",
+      "title": "ArmedWithWingsCulmination",
+      "author": "Sun-Studios",
+      "authorLink": "https://www.sunstudio.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/rearmed_trials.swf",
+      "title": "ArmedWithWingsRearmedTrials",
+      "author": "Sun-Studios",
+      "authorLink": "https://www.sunstudio.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/isworknow.swf",
+      "title": "SSF2 0.8b [Won't Run]",
+      "author": "McLeodGaming",
+      "authorLink": "https://www.mcleodgaming.com",
+      "type": "Game"
+    },    
+    {
+      "location": "swfs/Castle Crashing the Beard.swf",
+      "title": "Castle Crashing The Beard",
+      "author": "BomToons",
+      "authorLink": "https://www.newgrounds.com/portal/view/788729",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/381115_NGRfinal-fancy.swf",
+      "title": "Newgrounds Rummble",
+      "author": "Luis, MindChamber, & NegativeONE",
+      "authorLink": "https://www.newgrounds.com/portal/view/381115",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/Bang, Boom, Splat!.swf",
+      "title": "Bang, Boom, Splat!",
+      "author": "Edd Gould and Psycosis",
+      "authorLink": "https://www.newgrounds.com/art/view/blovy/bang-boom-splat",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/How_To_Find_Others.swf",
+      "title": "How To Find More Stuff!",
+      "author": "Click Here",
+      "authorLink": "https://drive.google.com/drive/folders/1d_9CVsO2VwMaR2l2e-QhN2pN4w2UDWvl?usp=sharing",
+      "type": "Animation"
+    },
+    {
+      "location": "swfs/dadnme.swf",
+      "title": "Dad N Me",
+      "author": "Tom Fulp and Dan Paladin",
+      "authorLink": "https://www.newgrounds.com/portal/view/254456",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/meat-boy-2388.swf",
+      "title": "Super Meat Boy",
+      "author": "Edmund McMillen",
+      "authorLink": "http://www.supermeatboy.com/",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/meat-boy-map-pack-2845.swf",
+      "title": "Super Meat Boy-Map Pack",
+      "author": "Edmund McMillen",
+      "authorLink": "http://www.supermeatboy.com/",
+      "type": "Game"
+    },    
+    {
+      "location": "swfs/FPAWorld1.swf",
+      "title": "Fancy Pants Adventure World 1",
+      "author": "Brad Borne",
+      "authorLink": "https://www.bornegames.com/",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/riddleschool.swf",
+      "title": "Riddle School",
+      "author": "Jonochrome",
+      "authorLink": "https://jonbro.newgrounds.com/",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/Madness-Project-Nexus.swf",
+      "title": "CMPN",
+      "author": "Tony",
+      "authorLink": "Tony.com",
+      "type": "Game"
     }
   ]
 }
+
