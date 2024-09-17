@@ -199,6 +199,13 @@
       "type": "Game"
     },
     {
+      "location": "swfs/dont-look-back.swf",
+      "title": "Don't Look Back",
+      "author": "Terry Cavanagh",
+      "authorLink": "https://terrycavanaghgames.com/",
+      "type": "Game"
+    },
+    {
       "location": "swfs/Madness-Project-Nexus.swf",
       "title": "CMPN",
       "author": "Tony",
