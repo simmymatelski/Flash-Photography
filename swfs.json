@@ -28,7 +28,6 @@
       "authorLink": "https://totaljerkface.com/",
       "type": "Game"
     },
-
     {
       "location": "swfs/saturday_morning_watchmen.swf",
       "title": "Saturday Morning Watchmen",
@@ -50,12 +49,18 @@
       "authorLink": "https://www.thebehemoth.com",
       "type": "Animation"
     },
-
     {
       "location": "swfs/alien_hominid.swf",
       "title": "Alien Hominid",
       "author": "Tom Fulp and Dan Paladin",
       "authorLink": "https://www.newgrounds.com",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/pacman.swf",
+      "title": "Pacman",
+      "author": "Paul Neave",
+      "authorLink": "neave.com",
       "type": "Game"
     },
     {
