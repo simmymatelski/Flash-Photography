@@ -237,6 +237,13 @@
       "author": "Tony",
       "authorLink": "Tony.com",
       "type": "Game"
+    },
+    {
+      "location": "swfs/pvz_9_15.swf",
+      "title": "PVZ",
+      "author": "PopCap Games",
+      "authorLink": "https://www.ea.com/ea-studios/popcap",
+      "type": "Game"
     }
   ]
 }
