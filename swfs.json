@@ -183,6 +183,13 @@
       "type": "Game"
     },
     {
+      "location": "swfs/n-v2.swf",
+      "title": "N",
+      "author": "Metanet Software",
+      "authorLink": "https://www.metanetsoftware.com/",
+      "type": "Game"
+    },
+    {
       "location": "swfs/Bang, Boom, Splat!.swf",
       "title": "Bang, Boom, Splat!",
       "author": "Edd Gould and Psycosis",
