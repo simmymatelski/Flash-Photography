@@ -50,6 +50,13 @@
       "type": "Animation"
     },
     {
+      "location": "swfs/LC.swf",
+      "title": "Steve's Lava Chicken",
+      "author": "Steve",
+      "authorLink": "https://www.minecraft-movie.com/",
+      "type": "Animation"
+    },
+    {
       "location": "swfs/alien_hominid.swf",
       "title": "Alien Hominid",
       "author": "Tom Fulp and Dan Paladin",
