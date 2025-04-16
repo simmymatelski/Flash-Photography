@@ -281,6 +281,13 @@
       "type": "Game"
     },
     {
+      "location": "swfs/bloxors.swf",
+      "title": "Bloxors",
+      "author": "Damien Clarke",
+      "authorLink": "https://damienclarke.me/",
+      "type": "Game"
+    },
+    {
       "location": "swfs/learn to fly 2.swf",
       "title": "Learn To Fly 2",
       "author": "lightbringer777",
